@@ -89,6 +89,7 @@ function checkWinner() {
 
 
     }
+    
 
 
     // vertically check 3 columns 
